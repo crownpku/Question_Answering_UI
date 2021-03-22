@@ -2,7 +2,7 @@
 
 A Simple UI based on Dash for Question Answering 
 
-![](./images/QA_UI_Demo.png)
+![](./img/QA_UI_Demo.png)
 
 QA Backend is based on repo here: https://github.com/kamalkraj/BERT-SQuAD
 
