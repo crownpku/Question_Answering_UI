@@ -6,7 +6,7 @@ import requests
 import json
 
 app = dash.Dash(__name__)
-
+app.title = 'Question Answering Demo'
 app.layout = html.Div([
     html.H1(
         children = "Question Answering Demo",
